@@ -1,4 +1,4 @@
-# tools-for-clearer-thinking
+# Tools for Clearer Thinking
 
 A suite of tools for thinking more deliberately and rigorously through a variety of common problems.
 
