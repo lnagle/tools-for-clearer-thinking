@@ -24,13 +24,13 @@ python index.py
 
 - [x] Create core flow for analyzing a single emotion
 - [x] Allow analyzing multiple emotions in a single session
-- [ ] Pretty print session on exit
 
 ### Ideas for Future Iterations
 
 - [ ] Persist data across sessions
 - [ ] Identify counterproductive language. For example: pressurized words like "should" and "must"
 - [ ] Support returning to certain topics and situations based on past sessions
+- [ ] Identify patterns and trends across sessions. For example: emotions that come up frequently, emotional valence, less frequent use of pressurized language, greater self-compassion, etc.
 
 ## Additional Resources 
 
