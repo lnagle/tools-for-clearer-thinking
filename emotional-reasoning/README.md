@@ -12,6 +12,8 @@ Although nothing is strictly required to carry out these steps, I've found that 
 
 ## How Does It Work
 
+TODO Add flowchart
+
 ## Installing and Running
 
 ```
@@ -19,6 +21,16 @@ python index.py
 ```
 
 ## Roadmap
+
+- [ ] Create core flow for analyzing a single emotion
+- [ ] Pretty print session on exit
+- [ ] Allow analyzing multiple emotions in a single session
+
+### Ideas for Future Iterations
+
+- [ ] Persist data across sessions
+- [ ] Identify counterproductive language. For example: pressurized words like "should" and "must"
+- [ ] Support returning to certain topics and situations based on past sessions
 
 ## Additional Resources 
 
