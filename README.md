@@ -4,7 +4,12 @@ A suite of tools for thinking more deliberately and rigorously through a variety
 
 ## Tools
 
+Under Development:  
+
 1. Emotional Reasoning: A tool for identifying, understanding, and engaging with one's emotions. Based on ideas from [cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy).
+
+Future Tools: 
+
 2. Art Analysis: A tool for analyzing a piece of art, starting with the most simple descriptive elements and building to complex commentary.
 3. Recursive Learning: A tool for testing one's knowledge, solidifying learnings, and uncovering areas that lack clarity in one's thinking.
 
