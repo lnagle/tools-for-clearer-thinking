@@ -22,7 +22,7 @@ python index.py
 
 ## Roadmap
 
-- [ ] Create core flow for analyzing a single emotion
+- [x] Create core flow for analyzing a single emotion
 - [ ] Pretty print session on exit
 - [ ] Allow analyzing multiple emotions in a single session
 
