@@ -24,6 +24,7 @@ python index.py
 
 - [x] Create core flow for analyzing a single emotion
 - [x] Allow analyzing multiple emotions in a single session
+- [ ] Support questioning and challenging thoughts
 
 ### Ideas for Future Iterations
 
