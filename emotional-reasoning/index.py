@@ -1,8 +1,3 @@
-'''
-TODO 
-  Capture stdout as a separate variable
-'''
-
 SINGLE_ANSWER = 'SINGLE_ANSWER'
 MULTI_RESPONSE = 'MULTI_RESPONSE'
 
@@ -40,9 +35,7 @@ steps = [
   }
 ]
 
-question_response_map = {
-  
-}
+question_response_map = {}
     
 def loop_of_inputs(prompt):
   responses = []
