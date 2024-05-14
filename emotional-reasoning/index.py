@@ -55,6 +55,10 @@ def loop_of_inputs(prompt):
 def handle_question_type(step, additional_prompt_args = []):
   if step['type'] == SINGLE_ANSWER:
     response = input(step['prompt'].format(additional_prompt_args))
+
+    # Print only a single line break
+    print()
+
     return response
   elif step['type'] == MULTI_RESPONSE:
     responses = loop_of_inputs(step['prompt'].format(additional_prompt_args))
